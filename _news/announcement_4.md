@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'll be presenting attending Google's [Society-Centered AI Workshop](https://rsvp.withgoogle.com/events/society-centered-ai-workshop/home)!
+I'll be presenting at Google's [Society-Centered AI Workshop](https://rsvp.withgoogle.com/events/society-centered-ai-workshop/home)!
